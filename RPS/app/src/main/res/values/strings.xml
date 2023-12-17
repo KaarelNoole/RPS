@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RPS_Room</string>
+    <string name="rock">rock</string>
+    <string name="paper">paper</string>
+    <string name="scissor">scissors</string>
+    <string name="score">SCORE: 0</string>
+    <string name="ai">ANDROID</string>
+    <string name="end">end game</string>
+    <string name="name">Enter name here …</string>
+    <string name="alertTitle">Remember the game rules!</string>
+    <string name="alertMessage">Scissors cuts paper \nPaper covers rock \nRock crushes scissors</string>
+    <string name="msg">: %1$d versus Android: %2$d</string>
+    <string name="loose">You loose!</string>
+    <string name="win">You win!</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="human_score">Human score</string>
+    <string name="player_name">Player name</string>
+    <string name="date">Date</string>
+    <string name="ai_score">AI score</string>
+</resources>
